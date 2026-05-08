@@ -2,77 +2,109 @@
 
   <br />
 
-  <a href="https://avelum.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/AVELUM-IA%20VERTICAL-ffffff?style=for-the-badge&labelColor=0057FF&color=0057FF" alt="Avelum — IA Vertical" />
-  </a>
+  <sub>LUIZ&nbsp;PORTO &nbsp;·&nbsp; CONSTRUTOR &nbsp;·&nbsp; AVELUM&nbsp;IA</sub>
 
-  <h1>Luiz Porto</h1>
+  <br /><br /><br />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=3500&pause=1500&color=4081FF&center=true&vCenter=true&width=820&height=140&lines=IA+gen%C3%A9rica+%C3%A9+commodity.;IA+vertical+%C3%A9+vantagem+competitiva." />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=3500&pause=1500&color=0057FF&center=true&vCenter=true&width=820&height=140&lines=IA+gen%C3%A9rica+%C3%A9+commodity.;IA+vertical+%C3%A9+vantagem+competitiva." alt="manifesto" />
-  </picture>
+  <sub>— INTELIGÊNCIA ARTIFICIAL VERTICAL —</sub>
+
+  <h1>IA genérica é commodity.<br />IA vertical é <em>vantagem competitiva</em>.</h1>
 
   <p>
-    Construo <a href="https://avelum.com.br"><strong>Avelum</strong></a> — IA aplicada a domínios específicos.<br />
-    Não commodity. Não hype. Não ferramenta-canivete.
+    Construímos inteligência artificial que entende profundamente o seu mercado<br />
+    — não um chatbot genérico que entende superficialmente tudo.
   </p>
 
+  <br />
+
+  <p>
+    <a href="https://avelum.com.br">
+      <img alt="Agendar diagnóstico gratuito" src="https://img.shields.io/badge/Agende%20seu%20diagn%C3%B3stico%20gratuito-0057FF?style=for-the-badge&labelColor=0057FF&color=0057FF" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="#nossa-tese"><strong>Conheça nossa tese →</strong></a>
+  </p>
+
+  <br />
+
 </div>
+
+---
+
+<a id="nossa-tese"></a>
+
+## Nossa tese
+
+> Por que apostamos tudo em IA vertical.
+
+<br />
+
+### `01`&nbsp;&nbsp;IA horizontal sabe um pouco de tudo.
+
+Útil pra brainstorming. Ruim pra resultado em domínio específico — a profundidade não está lá, só a média do que existe na internet.
+
+### `02`&nbsp;&nbsp;IA vertical domina o que importa.
+
+`10x` mais precisão em tarefas onde a profundidade do domínio separa execução boa de execução medíocre. Onde o vocabulário, as regras e os atalhos do vertical são o jogo.
+
+### `03`&nbsp;&nbsp;Nós construímos IA vertical.
+
+Cada produto resolve um problema concreto de um mercado real, com agentes que entendem o domínio antes de gerar a primeira linha.
 
 <br />
 
 ---
 
-## Nossa tese
+## Métricas que importam
 
-> Cada produto Avelum nasce de um domínio profundo: marketing visual, atendimento especializado, operação concreta. Não vendemos IA — vendemos o resultado do domínio que IA destrava.
-
-<br />
-
-## Manifesto
-
-**`01`  Vertical**
-Especialização sempre. IA pra algo específico, não pra tudo.
-
-**`02`  Decisivo**
-Autoridade sem hesitação. Manifesto, não tutorial.
-
-**`03`  Preciso**
-Números reais, casos concretos. Nunca "aumenta produtividade".
-
-**`04`  Construído**
-Engenharia transparece. Stack visível, motivos explícitos.
-
-<br />
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <h1><code>&nbsp;45%&nbsp;</code></h1>
+      <p><sub>aumento médio de produtividade com IA especializada<br/>(McKinsey, 2024)</sub></p>
+      <br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <h1><code>&nbsp;10x&nbsp;</code></h1>
+      <p><sub>mais precisão que IA genérica em tarefas<br/>de domínio específico</sub></p>
+      <br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <h1><code>&nbsp;48h&nbsp;</code></h1>
+      <p><sub>do primeiro contato ao plano<br/>de ação personalizado</sub></p>
+      <br />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Em produção
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Total Assistente</h3>
-      <p><sub><code>WHATSAPP</code> &nbsp;·&nbsp; <code>MULTI-AGENTE</code> &nbsp;·&nbsp; <code>EM PRODUÇÃO</code></sub></p>
-      <p>Assistente IA pra produtividade pessoal: finanças, compromissos, lembretes. Multi-agente escalando todo dia.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Implementação Vertical</h3>
-      <p><sub><code>CONSULTORIA</code> &nbsp;·&nbsp; <code>PLANO EM 48H</code></sub></p>
-      <p>Diagnóstico do negócio + agentes especializados (SDR, pós-venda, operações). Construímos o vertical com quem opera ele.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Rayo</h3>
-      <p><sub><code>HACKATHON</code> &nbsp;·&nbsp; <code>72 HORAS</code></sub></p>
-      <p>Um fim de semana. Gerador de carrosséis pro Instagram. Não foi pra durar — foi pra provar que dava.</p>
-    </td>
-    <td valign="top" width="50%">
-    </td>
-  </tr>
-</table>
+### Total Assistente
+
+<sub><code>&nbsp;WHATSAPP&nbsp;</code> &nbsp;·&nbsp; <code>&nbsp;MULTI-AGENTE&nbsp;</code> &nbsp;·&nbsp; <code>&nbsp;EM&nbsp;PRODUÇÃO&nbsp;</code></sub>
+
+Assistente IA pra produtividade pessoal — finanças, compromissos, lembretes. Multi-agente escalando todo dia.
+
+<br />
+
+### Implementação Vertical
+
+<sub><code>&nbsp;CONSULTORIA&nbsp;</code> &nbsp;·&nbsp; <code>&nbsp;PLANO&nbsp;EM&nbsp;48H&nbsp;</code></sub>
+
+Diagnóstico do negócio + agentes especializados (SDR, pós-venda, operações). Construímos o vertical com quem opera ele.
+
+<br />
+
+### Rayo
+
+<sub><code>&nbsp;HACKATHON&nbsp;</code> &nbsp;·&nbsp; <code>&nbsp;72&nbsp;HORAS&nbsp;</code></sub>
+
+Um fim de semana. Gerador de carrosséis pro Instagram. Não foi pra durar — foi pra provar que dava.
 
 <br />
 
@@ -99,18 +131,15 @@ Engenharia transparece. Stack visível, motivos explícitos.
 
 ## Stats
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizporto-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4081FF&icon_color=4081FF&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luizporto-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0057FF&icon_color=003FB8&text_color=1A1A2E" />
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizporto-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4081FF&icon_color=4081FF&text_color=c9d1d9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizporto-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0057FF&icon_color=003FB8&text_color=1A1A2E" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizporto-ai&layout=compact&hide_border=true&bg_color=00000000&title_color=4081FF&text_color=c9d1d9&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizporto-ai&layout=compact&hide_border=true&bg_color=00000000&title_color=0057FF&text_color=1A1A2E&langs_count=8" />
-  </picture>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizporto-ai&layout=compact&hide_border=true&bg_color=00000000&title_color=4081FF&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizporto-ai&layout=compact&hide_border=true&bg_color=00000000&title_color=0057FF&text_color=1A1A2E&langs_count=8" />
+</picture>
 
 <br />
 
@@ -118,15 +147,27 @@ Engenharia transparece. Stack visível, motivos explícitos.
 
 <div align="center">
 
-  <h3>Diagnóstico gratuito em 48 horas.</h3>
-  <p>Quer ver IA vertical resolvendo um gargalo do seu negócio?</p>
+  <br />
+
+  <h2>Pronto pra ter IA que realmente entende seu negócio?</h2>
+
+  <p>
+    Diagnóstico gratuito. Sem compromisso.<br />
+    Em 48 horas você terá um plano de ação.
+  </p>
+
+  <br />
 
   <a href="https://avelum.com.br">
-    <img src="https://img.shields.io/badge/Agendar%20diagn%C3%B3stico-ffffff?style=for-the-badge&labelColor=0057FF&color=0057FF" />
+    <img alt="Agendar diagnóstico gratuito" src="https://img.shields.io/badge/Agendar%20diagn%C3%B3stico%20gratuito-0057FF?style=for-the-badge&labelColor=0057FF&color=0057FF" />
   </a>
+
+  <br /><br /><br />
+
+  <sub>contato@avelumia.com &nbsp;·&nbsp; <a href="https://avelum.com.br">avelum.com.br</a> &nbsp;·&nbsp; São&nbsp;Paulo, Brasil</sub>
 
   <br /><br />
 
-  <sub>contato@avelumia.com &nbsp;·&nbsp; <a href="https://avelum.com.br">avelum.com.br</a></sub>
+  <sub>© 2026 — construído por <a href="https://github.com/luizporto-ai">Luiz Porto</a></sub>
 
 </div>
